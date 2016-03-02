@@ -1,0 +1,13 @@
+.blue{background-color:blue; color:black;height:100%;min-height:100%;}
+.red{background-color:red;height:100%;min-height:100%;width:100%;}
+div {color:green;}
+.fleft{vertical-align:middle; margin-top:-1px;}
+#display{height:200px;width:200px;}
+
+.parentNode{width:100px;height:100px;background-color:black;}
+ul, h4 {text-align:center;}
+
+.jumbotron{margin-top:20px;}
+
+.container-fluid{background-color:red;}
+body {height:100%;}
